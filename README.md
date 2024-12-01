@@ -47,15 +47,14 @@ Cada proyecto incluye:
 
 ---
 
-### **📌 [2. Nombre del Proyecto]**
-- **👥 Autor(es):** [Nombre(s) del/los estudiante(s)]
-- **📅 Ciclo:** [Ejemplo: 2024-01, 2024-02, etc.]
-- **📖 Descripción:** [Breve descripción del proyecto, máximo 2-3 líneas.]
+### **📌 [2.Promcoser Mobile App]**
+- **👥 Autor(es):** [Hernan Marecos,Rodrigo Cabello,]
+- **📅 Ciclo:** [2024-02]
+- **📖 Descripción:** [Aplicación móvil para la digitalización del parte diario de maquinarias de la empresa PROMCOSER.]
 - **🎯 Objetivos:**
-  1. [Primer objetivo.]
-  2. [Segundo objetivo.]
-- **🛠️ Tecnologías utilizadas:** [Lista de tecnologías, frameworks, lenguajes, etc.]
-- **🔗 Enlace al repositorio o demo:** [Enlace si está disponible]
+  1. [Desarrollo de una aplicación web que permitirá gestionar personal, maquinaria y clientes, además de digitalizar el 'Parte Diario'.]
+- **🛠️ Tecnologías utilizadas:** [Android Studio,Git,Kotlin.]
+- **🔗 Enlace al repositorio o demo:** [(https://github.com/nomad7wod/PromcoserMobileApp.git)]
 - **🖼️ Imagen representativa:**  
   ![Descripción breve de la imagen](ruta/de/la/imagen.jpg)
 
