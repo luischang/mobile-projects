@@ -33,7 +33,7 @@ Cada proyecto incluye:
 - Irupaylla, Fiorella
 - Linares, Irving
 - Tarazona, Brigite
-- Terrones, Emilio
+- Porteros, Emilio
 - Ventocilla, Jandir]
 - **📅 Ciclo:** [2024-2.]
 - **📖 Descripción:** [Aplicación Móvil para uso de Reserva de Citas Médicas de pacientes.]
