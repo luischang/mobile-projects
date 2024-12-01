@@ -43,7 +43,7 @@ Cada proyecto incluye:
 - **🛠️ Tecnologías utilizadas:** [Java + Kotlin y Android Studio Ladybug | 2024.2.1]
 - **🔗 Enlace al repositorio o demo:** [https://github.com/fIrupaylla/Mydoc.git]
 - **🖼️ Imagen representativa:**  
-  ![Descripción breve de la imagen](ruta/de/la/imagen.jpg)
+  ![Descripción breve de la imagen](https://raw.githubusercontent.com/luischang/mobile-projects/refs/heads/main/Screenshot_5%20(1).jpg)
 
 ---
 
