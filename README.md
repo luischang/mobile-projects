@@ -39,7 +39,7 @@ Cada proyecto incluye:
 - **🎯 Objetivos:**
   1. [Contar con una herramienta para el registro de citas médicas]
   2. [Visualizar el estado de la cita y las conclusiones médicas]
-- **🛠️ Tecnologías utilizadas:** [Java + Kotlin y Ladybug]
+- **🛠️ Tecnologías utilizadas:** [Java + Kotlin y Android Studio Ladybug | 2024.2.1]
 - **🔗 Enlace al repositorio o demo:** [https://github.com/fIrupaylla/Mydoc.git]
 - **🖼️ Imagen representativa:**  
   ![Descripción breve de la imagen](ruta/de/la/imagen.jpg)
