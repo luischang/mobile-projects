@@ -28,15 +28,19 @@ Cada proyecto incluye:
 
 ## 📂 **Lista de Proyectos**
 
-### **📌 [1. Nombre del Proyecto]**
-- **👥 Autor(es):** [Nombre(s) del/los estudiante(s)]
-- **📅 Ciclo:** [Ejemplo: 2024-01, 2024-02, etc.]
-- **📖 Descripción:** [Breve descripción del proyecto, máximo 2-3 líneas.]
+### **📌 [1. MyDoc]**
+- **👥 Autor(es):** [
+- Irupaylla, Fiorella
+- Linares, Irving
+- Tarazona, Brigite
+- Ventocilla, Jandir]
+- **📅 Ciclo:** [2024-2.]
+- **📖 Descripción:** [Aplicación Móvil para uso de Reserva de Citas Médicas de pacientes.]
 - **🎯 Objetivos:**
-  1. [Primer objetivo.]
-  2. [Segundo objetivo.]
-- **🛠️ Tecnologías utilizadas:** [Lista de tecnologías, frameworks, lenguajes, etc.]
-- **🔗 Enlace al repositorio o demo:** [Enlace si está disponible]
+  1. [Contar con una herramienta para el registro de citas médicas]
+  2. [Visualizar el estado de la cita y las conclusiones médicas]
+- **🛠️ Tecnologías utilizadas:** [Java + Kotlin y Ladybug]
+- **🔗 Enlace al repositorio o demo:** [https://github.com/fIrupaylla/Mydoc.git]
 - **🖼️ Imagen representativa:**  
   ![Descripción breve de la imagen](ruta/de/la/imagen.jpg)
 
