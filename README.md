@@ -47,7 +47,7 @@ Cada proyecto incluye:
 
 ---
 
-### **📌 [2.Promcoser Mobile App]**
+### **📌 [2.Promcoser Mobile App (Grupo 3) ]**
 - **👥 Autor(es):** [
 - Hernan Marecos
 - Rodrigo Cabello
@@ -67,6 +67,33 @@ Cada proyecto incluye:
   ![Pantalla Login de la App](https://raw.githubusercontent.com/luischang/mobile-projects/refs/heads/main/grupo3.png)
 
 ---
+
+### **📌 [3. GRUPO 1]**
+- **👥 Autor(es):**
+  - Bolívar Leon, Sebastian
+  - Cardenas Gomez Jose
+  - Ccompi Guerrero Williams
+  - Delgado Lorino Joaquín
+  - Picon Adan Mesias
+  - Puruguay Leon Sebastian
+  - Leon Cabanillas Sebastian
+  - Ruiz Montes Rubén
+- **📅 Ciclo:** 2024-2
+- **📖 Descripción:** 
+  - Aplicativo móvil para PROMCOSER que permita registrar, almacenar y confirmar los Partes Diarios, así como la visualización de un historial de Parte Diarios. Además poder gestionar sus credenciales con el cambio de contraseña.
+- **🎯 Objetivos:**
+  1. Desarrollar una plataforma móvil que facilite la incorporación digital del 'Parte Diario' con sus respectivos detalles para optimizar procesos internos.
+  2. Implementar una sección de reportes que permita visualizar los últimos 'Parte Diario' confirmados.
+  4. Implementar protocolos avanzados de autenticación para tener acceso a la aplicación y a poder gestionar la contraseña con una sección de 'Cambio de Contraseña'.
+  3. Optimizar la gestión operativa de PROMCOSER, generando ahorros de tiempo, minimizando errores y mejorando el acceso a información clave para la toma de decisiones.
+- **🛠️ Tecnologías utilizadas:**
+  - Andoird Studio: Kotlin
+  - Git y GitHub: Control de versiones y colaboración en el código.
+- **🔗 Enlace al repositorio o demo:**
+  - Front: https://github.com/WilliamsCG57/PromcoserApp.git
+- **🖼️ Imagen representativa:**  
+  ![image](link)
+
 
 > **💡 Nota:** Agregar tantas secciones como proyectos existan. Utiliza numeración consecutiva.
 
