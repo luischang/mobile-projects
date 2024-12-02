@@ -48,15 +48,23 @@ Cada proyecto incluye:
 ---
 
 ### **📌 [2.Promcoser Mobile App]**
-- **👥 Autor(es):** [Hernan Marecos,Rodrigo Cabello,]
+- **👥 Autor(es):** [
+-Hernan Marecos
+-Rodrigo Cabello
+-Grados  Jimmy
+-Acuña Luis 
+-Carrizales Julio 
+-Villaruel Alexis 
+-Rojas Daniel 
+-Tecnipuclla Manuel ]
 - **📅 Ciclo:** [2024-02]
 - **📖 Descripción:** [Aplicación móvil para la digitalización del parte diario de maquinarias de la empresa PROMCOSER.]
 - **🎯 Objetivos:**
   1. [Desarrollo de una aplicación web que permitirá gestionar personal, maquinaria y clientes, además de digitalizar el 'Parte Diario'.]
-- **🛠️ Tecnologías utilizadas:** [Android Studio,Git,Kotlin.]
+- **🛠️ Tecnologías utilizadas:** [Android Studio,Git,Kotlin,Visual Studio 2022,C#]
 - **🔗 Enlace al repositorio o demo:** [(https://github.com/nomad7wod/PromcoserMobileApp.git)]
 - **🖼️ Imagen representativa:**  
-  ![Descripción breve de la imagen](ruta/de/la/imagen.jpg)
+  ![Pantalla Login de la App](https://raw.githubusercontent.com/luischang/mobile-projects/refs/heads/main/grupo3.png)
 
 ---
 
