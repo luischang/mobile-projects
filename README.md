@@ -94,6 +94,30 @@ Cada proyecto incluye:
 - **🖼️ Imagen representativa:**  
   ![image](https://raw.githubusercontent.com/luischang/mobile-projects/refs/heads/main/grupo1.jpeg)
 
+---
+
+### *📌 [GRUPO 2]*
+- *👥 Autor(es):*
+  - Cuadros Huachua Axel
+  - Guivar Deivis
+  - Ormeño Salazar Victor
+  - Sal y Rosas Tafur Julio
+  - Sandoval Díaz Jeferson
+- *📅 Ciclo:* 2024-2
+- *📖 Descripción:* 
+  - Aplicativo móvil para PROMCOSER que permita registrar, almacenar y confirmar los Partes Diarios, así como la visualización de un historial de Parte Diarios. Además poder gestionar sus credenciales con el cambio de contraseña.
+- *🎯 Objetivos:*
+  1. Desarrollar una plataforma móvil que facilite la incorporación digital del 'Parte Diario' con sus respectivos detalles para optimizar procesos internos.
+  2. Implementar una sección de reportes que permita visualizar los últimos 'Parte Diario' confirmados.
+  4. Implementar protocolos avanzados de autenticación para tener acceso a la aplicación y a poder gestionar la contraseña con una sección de 'Cambio de Contraseña'.
+  3. Optimizar la gestión operativa de PROMCOSER, generando ahorros de tiempo, minimizando errores y mejorando el acceso a información clave para la toma de decisiones.
+- *🛠 Tecnologías utilizadas:*
+  - Andoird Studio: Kotlin
+  - Git y GitHub: Control de versiones y colaboración en el código.
+- *🔗 Enlace al repositorio o demo:*
+  - Link: https://github.com/Capstone-Proyect-Promcoser/android.app
+- *🖼 Imagen representativa:*  
+  ![image](https://raw.githubusercontent.com/luischang/mobile-projects/refs/heads/main/grupo2.jpeg)
 
 > **💡 Nota:** Agregar tantas secciones como proyectos existan. Utiliza numeración consecutiva.
 
