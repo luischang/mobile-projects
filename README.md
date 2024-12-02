@@ -49,14 +49,14 @@ Cada proyecto incluye:
 
 ### **📌 [2.Promcoser Mobile App]**
 - **👥 Autor(es):** [
--Hernan Marecos
--Rodrigo Cabello
--Grados  Jimmy
--Acuña Luis 
--Carrizales Julio 
--Villaruel Alexis 
--Rojas Daniel 
--Tecnipuclla Manuel ]
+- Hernan Marecos
+- Rodrigo Cabello
+- Grados  Jimmy
+- Acuña Luis 
+- Carrizales Julio 
+- Villaruel Alexis 
+- Rojas Daniel 
+- Tecnipuclla Manuel ]
 - **📅 Ciclo:** [2024-02]
 - **📖 Descripción:** [Aplicación móvil para la digitalización del parte diario de maquinarias de la empresa PROMCOSER.]
 - **🎯 Objetivos:**
