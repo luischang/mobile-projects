@@ -92,7 +92,7 @@ Cada proyecto incluye:
 - **🔗 Enlace al repositorio o demo:**
   - Front: https://github.com/WilliamsCG57/PromcoserApp.git
 - **🖼️ Imagen representativa:**  
-  ![image]([link](https://raw.githubusercontent.com/luischang/mobile-projects/refs/heads/main/grupo1.jpeg))
+  ![image]((https://raw.githubusercontent.com/luischang/mobile-projects/refs/heads/main/grupo1.jpeg))
 
 
 > **💡 Nota:** Agregar tantas secciones como proyectos existan. Utiliza numeración consecutiva.
