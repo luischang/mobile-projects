@@ -43,6 +43,26 @@ Cada proyecto incluye:
 - **🖼️ Imagen representativa:** 
 ![Login de la aplicación ](https://github.com/james250920/mobile-projects/blob/main/StudyOso.png)
 
+### **📌 [3. 🍳 Ají Causa - Tu Asistente Culinario Personal]**
+- **👥 Autor(es):** [
+- Aguilar Contreras, Angel Jesus
+- Apolaya Lira, José Miguel
+- Avalos Sotelo, Jeremy Valentino
+- Cóndor Garcia, Kheyla Sanhelí]
+- **📅 Ciclo:** [2025-1.]
+- **📖 Descripción:** [Aplicación móvil para Android, diseñada para ayudar a los usuarios a encontrar recetas de cocina y organizar sus actividades culinarias de manera eficiente. La aplicación permite realizar búsquedas de recetas basadas en ingredientes disponibles, guiar al usuario en el proceso de cocción paso a paso, y generar listas de la compra para facilitar la adquisición de los ingredientes necesarios.]
+- **🎯 Objetivos:**
+  1. [Búsqueda de recetas por ingredientes: Permitir a los usuarios encontrar recetas basadas en los ingredientes disponibles en su cocina.]
+  2. [Modo de cocción paso a paso: Proporcionar un modo interactivo que guíe al usuario en cada paso del proceso de cocción de la receta seleccionada.]
+  3. [Generador de listas de la compra: Facilitar la creación de listas de compra para los ingredientes necesarios en las recetas elegidas por el usuario.]
+- **🛠️ Tecnologías utilizadas:** [Kotlin + Android Studio Ladybug, Jetpack Compose UI App Development Toolkit]
+- **🔗 Enlace al repositorio o demo:** [https://github.com/AngelAguilar21/Recetario_Proyecto.git]
+- **🖼️ Imagen representativa:**
+- ![Login de la aplicación ](https://github.com/AngelAguilar21/mobile-projects/blob/816905c463ad1c22c2a908f7b76c28f5db25620d/aji%20causa.png)
+---
+
+
+
 ## 📂 **Lista de Proyectos 2024-2**
 
 
