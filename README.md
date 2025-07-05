@@ -26,7 +26,25 @@ Cada proyecto incluye:
 
 ---
 
-## 📂 **Lista de Proyectos**
+
+## 📂 **Lista de Proyectos 2025-1**
+### **📌 [1. StudyOso (study planner)]**
+- **👥 Autor(es):** [
+- MENDOZA RIOS, James Frank
+- AVILA AGURTO, Sandro Fabrizio Enrique
+- CHANCAS EVANGELISTA, Gerson
+- CARRERA MUÑOZ Benny Joseph
+]
+- **📅 Ciclo:** 2025-1
+- **📖 Descripción:**[StudyOso es una aplicación móvil moderna para Android desarrollada en Kotlin que ayuda a estudiantes universitarios a organizar y gestionar sus actividades académicas de manera eficiente. La aplicación sigue principios de Clean Architecture y utiliza las mejores prácticas de desarrollo Android moderno.]
+- **🎯 Objetivos:**[Desarrollar una **aplicación móvil nativa para Android** que permita a estudiantes universitarios **gestionar de manera integral y eficiente su vida académica**, proporcionando herramientas digitales modernas para la organización temporal, seguimiento de rendimiento académico y optimización de la productividad estudiantil.]
+- **🛠️ Tecnologías utilizadas:**[ Jetpack Compose, Kotlin, WorkManager (2.10.1), BCrypt (0.4), Room Database (2.7.1), Material Design 3 (1.3.2)]
+- **🔗 Enlace al repositorio o demo:** [https://github.com/james250920/StudyOsO_DAM]
+- **🖼️ Imagen representativa:** 
+![Login de la aplicación ](https://github.com/james250920/mobile-projects/blob/main/StudyOso.png)
+
+## 📂 **Lista de Proyectos 2024-2**
+
 
 ### **📌 [1. MyDoc]**
 - **👥 Autor(es):** [
