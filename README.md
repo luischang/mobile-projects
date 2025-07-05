@@ -43,6 +43,33 @@ Cada proyecto incluye:
 - **🖼️ Imagen representativa:** 
 ![Login de la aplicación ](https://github.com/james250920/mobile-projects/blob/main/StudyOso.png)
 
+### **📌 [2. Fitness Tracker (step counter)]**
+- **👥 Autor(es):** [
+- INFANTES VILLANUEVA, Edgar Fernando
+- MEZA RIVERA, Alexis Bryan
+- MAMANI SONCCO, Melva Natividad
+- ROSALES MALDONADO, Diego César
+]
+- **📅 Ciclo:** 2025-1
+- **📖 Descripción:**[FitnessTracker es una aplicación móvil nativa para Android desarrollada en Kotlin que permite a los usuarios realizar un seguimiento de su actividad física diaria, especialmente el conteo de pasos. Utiliza sensores del dispositivo junto con servicios de Firebase para ofrecer una experiencia personalizada, persistente y conectada a la nube. La app implementa principios de arquitectura limpia y desarrollo moderno con Jetpack Compose.]
+- **🎯 Objetivos:**[Desarrollar una **aplicación móvil de seguimiento de pasos** para Android que permita a los usuarios **monitorear su actividad física diaria**, incluyendo pasos, distancia, calorías y minutos activos. También se busca ofrecer visualizaciones semanales/mensuales mediante gráficos interactivos, así como autenticación segura con Firebase y Google.]
+- **🛠️ Tecnologías utilizadas:**[
+Jetpack Compose (BOM 2024.09.00),  
+Kotlin (2.0.21),  
+Firebase Authentication / Firestore / Storage (BoM 33.15.0),  
+MPAndroidChart (3.1.0),  
+Retrofit (2.9.0),  
+DataStore Preferences (1.0.0),  
+Material Design 3 (1.3.2),  
+Navigation Compose (2.7.7),  
+Coil Compose (2.3.0),  
+Google Sign-In (play-services-auth 20.7.0),  
+Accompanist System UI Controller (0.32.0)  
+]
+- **🔗 Enlace al repositorio o demo:** [https://github.com/EdgarInfantes/FitnessTracker]
+- **🖼️ Imagen representativa:** 
+![Pantalla de inicio de sesión](https://github.com/DRM-Icpna234/mobile-projects/blob/main/screen_login_fitnesstracker.jpg)
+
 ## 📂 **Lista de Proyectos 2024-2**
 
 
