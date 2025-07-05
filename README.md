@@ -41,7 +41,7 @@ Cada proyecto incluye:
 - **🛠️ Tecnologías utilizadas:**[ Jetpack Compose, Kotlin, WorkManager (2.10.1), BCrypt (0.4), Room Database (2.7.1), Material Design 3 (1.3.2)]
 - **🔗 Enlace al repositorio o demo:** [https://github.com/james250920/StudyOsO_DAM]
 - **🖼️ Imagen representativa:** 
-![Login de la aplicación ]()
+![Login de la aplicación ](https://github.com/james250920/mobile-projects/blob/main/StudyOso.png)
 
 ## 📂 **Lista de Proyectos 2024-2**
 
