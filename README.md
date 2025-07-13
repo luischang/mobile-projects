@@ -86,7 +86,23 @@ Accompanist System UI Controller (0.32.0)
 - **🔗 Enlace al repositorio o demo:** [https://github.com/AngelAguilar21/Recetario_Proyecto.git]
 - **🖼️ Imagen representativa:**
 - ![Login de la aplicación ](https://github.com/AngelAguilar21/mobile-projects/blob/816905c463ad1c22c2a908f7b76c28f5db25620d/aji%20causa.png)
+  
 ---
+### **📌 [4. PlayFlowApp ]**
+ **👥 Autor(es):** [
+- Larrea Rios, Erick Israel Fernando
+- Ortiz Saenz, Juan Armando
+- Rodriguez Zelada, Fernando Andre
+- Ttica Leon, Alonso Pavel]
+- **📅 Ciclo:** [2025-1.]
+- **📖 Descripción:** [Aplicación móvil para Android, diseñada para facilitar a los usuarios la gestión de sus finanzas personales mediante funciones seguras y rápidas de depósitos, transferencias de dinero y control de movimientos. La aplicación permite enviar y recibir dinero en tiempo real, realizar depósitos de manera sencilla, y consultar el historial de transacciones en una interfaz clara e intuitiva]
+- **🎯 Objetivos:**
+  1. [Permitir a los usuarios enviar y recibir dinero de forma instantánea a través de una plataforma confiable y protegida.]
+  2. [Facilitar la realización de depósitos en cuentas propias o de manera rápida, desde el dispositivo móvil.]
+  3. [Ofrecer un sistema claro para consultar el historial de movimientos, con detalles de cada operación para una mejor gestión financiera.]
+- **🛠️ Tecnologías utilizadas:** [Kotlin + Android Studio Ladybug, Jetpack Compose UI App Development Toolkit]
+- **🔗 Enlace al repositorio o demo:** [https://github.com/Farz1093/DPA_Playflowapp_20251.git]
+- **🖼️ Imagen representativa:**
 
 ## 📂 **Lista de Proyectos 2024-2**
 
@@ -127,7 +143,7 @@ Accompanist System UI Controller (0.32.0)
 - **🛠️ Tecnologías utilizadas:** [Android Studio,Git,Kotlin,Visual Studio 2022,C#]
 - **🔗 Enlace al repositorio o demo:** [(https://github.com/nomad7wod/PromcoserMobileApp.git)]
 - **🖼️ Imagen representativa:**  
-  ![Pantalla Login de la App](https://raw.githubusercontent.com/luischang/mobile-projects/refs/heads/main/grupo3.png)
+  ![Pantalla Home de la App]([https://raw.githubusercontent.com/Farz1093/DPA_Playflowapp_20251/93b244f3b4cda6089f116413ac71841ed42fee8c/PlayFlowApp.jpg])
 
 ---
 
