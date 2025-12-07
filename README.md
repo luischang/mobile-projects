@@ -42,6 +42,24 @@ Cada proyecto incluye:
 - **🖼️ Imagen representativa:** 
 ![Login de la aplicación ](https://github.com/luischang/mobile-projects/blob/main/tradeup.jpeg)
 
+### **📌 [2. TruequeRopa]**
+- **👥 Autor(es):** [
+- HERNANDEZ RUCOBA, Miguel Enrique
+- CAJUSOL SANTISTEBAN, Marco Antonio
+- PANIAGUA ESCOBAR, Andrea Lizeth
+
+
+- **📅 Ciclo:** 2025-2
+- **📖 Descripción:**[TruequeRopa es una aplicación móvil que permite intercambiar prendas de vestir entre usuarios sin usar dinero. La app facilita publicar artículos, enviar y recibir propuestas de trueque, gestionar un historial de intercambios y visualizar perfiles. Incluye un panel exclusivo para administradores y una sección integrada con IA Gemini para consultas dentro de la app. Su propósito es promover la reutilización de ropa y reducir el desperdicio mediante una experiencia digital práctica y segura]
+- **🎯 Objetivos:**[1. Facilitar el intercambio directo de prendas sin transacciones monetarias.]
+  [2. Promover la economía circular y el consumo responsable.]
+  [3. Aplicar buenas prácticas de desarrollo móvil y uso de servicios en la nube.]
+  [4. Implementar autenticación, control de usuarios y flujo completo de trueque.]
+  [5. Integrar IA generativa para mejorar la experiencia del usuario.]
+- **🛠️ Tecnologías utilizadas:**[Kotlin, Jetpack Compose, Material Design 3, Firebase (Auth, Firestore, Storage), Coroutines/StateFlow, OkHttp, Gemini API.]
+- **🔗 Enlace al repositorio o demo:** [https://github.com/MiguelHR17/TruequeRopa.git]
+- **🖼️ Imagen representativa:**
+  ![Pagina de exploracion de ofertas](https://github.com/MiguelHR17/TruequeRopa/blob/6ceb67521fc74166893b521506f266425f03a8c6/Pantalla_de-exploracion-de-ofertas.jpg)
 
 ## 📂 **Lista de Proyectos 2025-1**
 ### **📌 [1. StudyOso (study planner)]**
