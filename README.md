@@ -26,6 +26,22 @@ Cada proyecto incluye:
 
 ---
 
+## 📂 **Lista de Proyectos 2025-2**
+### **📌 [1. TradeUp]**
+- **👥 Autor(es):** [
+- ACUÑA YATACO, Fernando Rodolfo 
+- ANAYA DIAZ, Victor Martín
+- HUARAZ VARGAS, Diana Rocio
+- SOLIS CELESTINO, Edgar Antony 
+
+- **📅 Ciclo:** 2025-2
+- **📖 Descripción:**[TradeUp es una aplicación innovadora diseñada para facilitar el intercambio de bienes y servicios entre personas sin necesidad de dinero. Con una interfaz intuitiva TradeUp conecta a usuarios que tienen algo que ofrecer con quienes buscan exactamente eso. La plataforma permite publicar artículos, habilidades o servicios, explorar ofertas cercanas y negociar de forma segura desde el móvil. Ideal para quienes buscan ahorrar, reutilizar y fomentar una economía colaborativa, TradeUp convierte el trueque en una experiencia moderna, práctica y sostenible.]
+- **🎯 Objetivos:**[El curso tiene como objetivo facilitar a los ciudadanos el intercambio directo de bienes y servicios sin usar dinero, promoviendo el desarrollo de soluciones que fomenten la economía colaborativa y contribuyan a reducir el desperdicio. A través del proyecto, los estudiantes aprenderán a diseñar y construir herramientas digitales que impulsen prácticas sostenibles, incentiven la reutilización y faciliten nuevas formas de interacción comunitaria.]
+- **🛠️ Tecnologías utilizadas:**[ Jetpack Compose, Kotlin, Material Design 3, Gemini Api, Firebase, NodeJS]
+- **🔗 Enlace al repositorio o demo:** [https://github.com/ESAN-projects/tradeUp.git]
+- **🖼️ Imagen representativa:** 
+![Login de la aplicación ](https://github.com/luischang/mobile-projects/blob/main/tradeup.jpeg)
+
 
 ## 📂 **Lista de Proyectos 2025-1**
 ### **📌 [1. StudyOso (study planner)]**
