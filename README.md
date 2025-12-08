@@ -27,6 +27,22 @@ Cada proyecto incluye:
 ---
 
 ## 📂 **Lista de Proyectos 2025-2**
+
+### **📌 [1. Trueque Digital – TrueQ]**
+- **👥 Autor(es):** [
+- CANO DIAZ, Rubén Andrés
+- CUTIMANCO HUACO, William Vicente
+- GUTIERREZ VALIENTE, Richard Carlos
+- TICONA Laura, Wilber David
+
+- **📅 Ciclo:** 2025-2
+- **📖 Descripción:**[Trueque Digital – TrueQ es una aplicación móvil que facilita el intercambio directo de bienes y servicios entre usuarios sin usar dinero, promoviendo la economía colaborativa, reduciendo el desperdicio y fomentando la sostenibilidad. La plataforma permite publicar ofertas y necesidades, explorar publicaciones filtradas por categoría, enviar y recibir propuestas de trueque, gestionar un historial de intercambios, recibir notificaciones relevantes y, además, incorpora funciones de moderación, reportar usuarios y generación de códigos QR para compartir ofertas.]
+- **🎯 Objetivos:**[El proyecto busca diseñar e implementar una aplicación móvil nativa en Android con Kotlin, aplicando principios de arquitectura Android y buenas prácticas de ingeniería. Sus principales funcionalidades incluyen registro, autenticación, publicaciones, propuestas y notificaciones, utilizando el ecosistema Firebase-Firestore, Authentication y Storage, para la gestión de datos y recursos. Además, se consideran aspectos de seguridad, manejo adecuado del ciclo de vida de las actividades y la documentación técnica del avance mediante backlog, historias de usuario y prototipos.]
+- **🛠️ Tecnologías utilizadas:**[Jetpack Compose, Kotlin, Material Design 3, Firebase, GitHub y Figma]
+- **🔗 Enlace al repositorio o demo:** [https://github.com/ESAN-DPA-Proyectos/AppTrueQ.git]
+- **🖼️ Imagen representativa:**
+  ![Mis Publicaciones](https://github.com/luischang/mobile-projects/blob/main/TrueQ.png)
+
 ### **📌 [1. TradeUp]**
 - **👥 Autor(es):** [
 - ACUÑA YATACO, Fernando Rodolfo 
